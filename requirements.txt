@@ -2,3 +2,10 @@ langchain_core
 streamlit
 langchain_community
 python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+asyncio
+langchain
+pydantic==1.10.13
