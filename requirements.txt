@@ -9,3 +9,6 @@ sse_starlette
 asyncio
 langchain
 pydantic==1.10.13
+pypdf
+chromadb
+faiss-cpu
